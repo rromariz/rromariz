@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rromariz
-- 👀 I’m interested in learning more about new technologies 
-- 🌱 I’m currently learning DevOps concepts
-- 💞️ I’m looking to collaborate on the course I'm doing in MIT about DevOps
+- 👋 Hi, I’m Renata Romariz
+- 👀 I’m interested in learning how new technologies could help businesses achieve their purpose.
+- 🌱 I’m currently learning more about DevOps on the course I'm doing in MIT
+- 💞️ I’m looking to collaborate with client-oriented institutions that want to achieve excellence in their segments and are committed to developing their people.
 - 📫 How to reach me: renata.romariz@icloud.com
 
 <!---
